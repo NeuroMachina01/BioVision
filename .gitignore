@@ -1,0 +1,5 @@
+# Ignore logs and checkpoints
+logs/
+*.tfevents*
+.ipynb_checkpoints/
+__pycache__/
